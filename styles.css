@@ -93,15 +93,11 @@ h4 {
 }
 
 #email {
-    border-radius: 15px;
-    padding: 1em 2em;
+    border-radius: 5em;
+    padding: 0.75em 2em;
 }
 
-#try {
-    margin-top: 1.5em;
-}
-
-button {
+#submit {
     background-color: #f1c40f;
     color: #2e3436;
     border: 0px none;
@@ -109,6 +105,7 @@ button {
     padding: 0.85em 1.25em;
     font-size: 0.85em;
     font-weight: bold;
+    margin-top: 1.5em;
 }
 
 #features {
