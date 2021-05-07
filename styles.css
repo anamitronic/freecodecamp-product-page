@@ -90,13 +90,13 @@ main {
 }
 
 h2 {
-    font-size: 2em;
+    font-size: 1.75em;
     font-style: italic;
     font-weight: 900;
 }
 
 h4 {
-    font-size: 1.15em;
+    font-size: 1.1em;
 }
 
 #email {
@@ -187,4 +187,5 @@ footer {
     text-align: center;
     color: #fff;
     padding: 2em 0;
+    font-size: 1em;
 }
